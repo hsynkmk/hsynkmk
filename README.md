@@ -40,4 +40,4 @@
 ### 💬 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:huseyinkaymak99@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-c14438?style=for-the-badge&logo=Linkedin&logoColor=white)](mailto:https://www.linkedin.com/in/hsynkmk/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-c14438?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hsynkmk/)
