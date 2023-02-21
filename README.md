@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on [MySQL-Notes](https://github.com/hsynkmk/MySQL-Notes)
 - 🌱 I’m currently learning **Flutter-Dart**
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/hsynkmk?tab=repositories)
-- ⚡ **I'm familiar with several code languages.ie Java ,Javascript, Python, C#, C++**
+- ⚡ **I'm familiar with several code languages.ie Javascript, Python, C#, C++**
 
 ### 🛠 Tech Stack
 
