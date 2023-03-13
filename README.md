@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on [Web Based Technologies](https://github.com/hsynkmk/Web-Based-Technologies)
-- 🌱 I’m currently learning **Flutter-Dart**
+- 🌱 I’m currently learning **ASP.NET**
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/hsynkmk?tab=repositories)
 - ⚡ **I'm familiar with several code languages.ie Javascript, Python, C#, C++**
 
