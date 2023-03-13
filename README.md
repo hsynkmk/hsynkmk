@@ -11,7 +11,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [MySQL-Notes](https://github.com/hsynkmk/MySQL-Notes)
+- 🔭 I’m currently working on [Web Based Technologies](https://github.com/hsynkmk/Web-Based-Technologies)
 - 🌱 I’m currently learning **Flutter-Dart**
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/hsynkmk?tab=repositories)
 - ⚡ **I'm familiar with several code languages.ie Javascript, Python, C#, C++**
