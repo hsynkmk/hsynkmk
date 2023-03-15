@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<h3 align="center">A passionate CS Student from Turkey</h3>
+<h3 align="center">A software engineer from Turkey</h3>
 
 ---
-
-![followers](https://img.shields.io/github/followers/hsynkmk?style=social)
-![stars](https://img.shields.io/github/stars/hsynkmk?style=social)
-
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{hsynkmk}/count.svg" alt="hsynkmk :: Visitor's Count" /></p>
-<br/>
-
 
 - 🔭 I’m currently working on [Web Based Technologies](https://github.com/hsynkmk/Web-Based-Technologies)
 - 🌱 I’m currently learning **ASP.NET**
@@ -24,20 +16,15 @@
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-
-<!--- ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black) -->
-
-<!--- ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)-->
-
-
 ![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
-
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
-
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+<!--- ![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black) -->
+<!--- ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)-->
 <!--- ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white) -->
 <!--- ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white) -->
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
+![Hüseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsynkmk&theme=prussian&show_icons=true)
 
 ### 💬 Contact Me
 
