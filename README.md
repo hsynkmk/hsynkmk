@@ -3,8 +3,8 @@
 
 ---
 
-- 🔭 I’m currently working on [Web Based Technologies](https://github.com/hsynkmk/Web-Based-Technologies)
-- 🌱 I’m currently learning **ASP.NET**
+- 🔭 I’m currently working on [Machine Learning](https://github.com/hsynkmk/Machine-Learning-Notes)
+- 🌱 I’m currently learning **Machine Learning**
 - 👨‍💻 All of my projects are available at [my repositories](https://github.com/hsynkmk?tab=repositories)
 - ⚡ **I'm familiar with several code languages.ie Javascript, Python, C#, C++**
 
@@ -25,6 +25,7 @@
 <!--- ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white) -->
 
 ![Hüseyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsynkmk&theme=prussian&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsynkmk&layout=compact)](https://github.com/hsynkmk/github-readme-stats)
 
 ### 💬 Contact Me
 
