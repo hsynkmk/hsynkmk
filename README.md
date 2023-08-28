@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<h3 align="center">A software engineer from Turkey</h3>
 
 ---
 
@@ -10,6 +9,7 @@
 
 ### 🛠 Tech Stack
 
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](http://img.shields.io/badge/-C_Sharp-white?style=flat-square&logo=csharp&logoColor=purple)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
