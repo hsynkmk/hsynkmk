@@ -16,4 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsynkmk&show_icons=true&locale=en" alt="hsynkmk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsynkmk&" alt="hsynkmk" /></p>
