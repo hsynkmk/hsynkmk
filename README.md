@@ -2,11 +2,9 @@
 <h3 align="center">Software Developer</h3>
 
 
-<h3 align="left">Contact me:</h3>
+<h3 align="left">Feel free to contact me anytime:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hsynkmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsynkmk" height="30" width="40" /></a>
-<a href="mailto:huseyinkaymak99@gmail.com" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="40" ></a>
-
 </p>
 
 ![](https://komarev.com/ghpvc/?username=hsynkmk&abbreviated=true)
