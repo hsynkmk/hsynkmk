@@ -9,7 +9,6 @@
 
 <p align="center">
   🚀 Passionate about building clean, scalable software.<br/>
-  💬 Ask me about **C#, .NET, React, and databases**.
 </p>
 
 <!-- Contact section using shields.io badges (always work) -->
