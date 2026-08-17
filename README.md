@@ -53,5 +53,6 @@
   </p> 
   <!-- GitHub stats (direct from github-readme-stats & streak) --> 
   <h2 align="center">📊 GitHub Stats</h2> 
-  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsynkmk&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" /> 
+  <p align="center"> <a href="http://www.github.com/hsynkmk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hsynkmk&stroke=ffffff&background=27272a&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
   </p>
