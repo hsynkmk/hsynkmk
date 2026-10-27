@@ -46,9 +46,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> 
   </p> <!-- Experience --> 
   <h2 align="center">💼 Experience</h2> 
-  <p align="center"> <strong>Software Developer</strong> @ FNZ, Brno — 10/2025 – Present<br/> Backend development for financial services applications: .NET, SQL Server, in a large-scale regulated enterprise environment. 
-  </p> 
-  <p align="center"> <strong>Full-Stack Developer (Freelance)</strong> — PdrGo, 06/2025 – 09/2025<br/> Designed and shipped a B2B SaaS platform (Next.js, ASP.NET Core, PostgreSQL, EF Core), with JWT auth, RBAC, and AI-powered analysis. 
+  <p align="center"> <strong>Software Developer</strong> @ FNZ, Brno — 10/2025 – 09.2026<br/> Backend development for financial services applications: .NET, SQL Server, in a large-scale regulated enterprise environment. 
   </p> 
   <p align="center"> <strong>Software Developer (Contract)</strong> @ Doğuş Technology — 07/2024 – 05/2025<br/> ERP and microservices platforms; legacy .NET Framework + .NET Core, CI/CD in Azure DevOps. 
   </p> 
